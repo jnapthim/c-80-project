@@ -1,0 +1,21 @@
+h1
+{
+    color:#45056e;
+}
+body 
+{
+    background-color:#99FFFF;
+    font-style: italic;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+input
+{
+    background-color:#FF007F;
+    color:#FFFF93;
+}
+
+div
+	{
+		width: 49%;
+	}
